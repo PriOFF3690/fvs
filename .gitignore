@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# Scan output / cache (will matter once report/cache stages exist)
+*.db
+reports/
